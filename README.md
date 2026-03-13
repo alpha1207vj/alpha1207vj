@@ -1,50 +1,42 @@
-<!-- Header with logo -->
 <div align="center">
 
-<img src="./logo.svg" width="320" alt="JOJO logo"/>
+```
+     ██╗ ██████╗      ██╗ ██████╗ 
+     ██║██╔═══██╗     ██║██╔═══██╗
+     ██║██║   ██║     ██║██║   ██║
+██   ██║██║   ██║██   ██║██║   ██║
+╚█████╔╝╚██████╔╝╚█████╔╝╚██████╔╝
+ ╚════╝  ╚═════╝  ╚════╝  ╚═════╝ 
+```
 
-<br/>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hey!+I'm+JOJO+👋;Frontend+Engineer+🚀;React+%2F+Next.js+%2F+TypeScript+❤️;Open+to+work+—+Let's+build+something!" alt="Typing SVG" />
-
-<br/>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jojo-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jojo-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jojo-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Gide749Gide)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-codja-4356a2361)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alpha1207vj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://jojo.dev)
 
-![Profile views](https://komarev.com/ghpvc/?username=jojo-dev&color=FF6B35&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=alpha1207vj&color=FF6B35&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👾 Who am I?
+## 👋 Hi, I'm JOJO!
 
-<div align="center">
+🚀 I'm a Frontend Engineer who loves crafting beautiful, fast and user-friendly web experiences
 
-```typescript
-/**
- * ╔═══════════════════════════════════════╗
- * ║         JOJO — Frontend Engineer     ║
- * ╚═══════════════════════════════════════╝
- */
+⚡ I specialize in **React**, **Next.js** and **TypeScript** — and I care deeply about every pixel
 
-const JOJO = {
-  role        : "Frontend Engineer 🚀",
-  location    : "Somewhere with good Wi-Fi 🌍",
-  learning    : ["Next.js 15", "Animations", "Web Performance"],
-  openToWork  : true,
-  lookingFor  : "Frontend / React / Next.js roles 🌐",
-  funFact     : "I care about pixels as much as logic 🎨",
-} as const;
-```
+🎨 I enjoy turning complex UI/UX ideas into clean, performant code
 
-</div>
+🌱 I'm currently leveling up my skills in **web animations** and **Next.js 15**
 
-> **💼 Actively open to Frontend Engineer roles — Remote friendly!**
+♿ I care about **accessibility** — great design should work for everyone
+
+💬 Ask me anything about **React**, **TypeScript**, **CSS** or **frontend architecture**
+
+💼 I'm actively **open to work** — looking for Frontend Engineer roles, remote friendly!
+
+📬 How to reach me: **jojo@dev.com**
 
 ---
 
@@ -78,96 +70,36 @@ const JOJO = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
-> 💡 **Swap the repo names, descriptions and links below with your real projects!**
+### ♿ Contrasto — WCAG Contrast Checker
+
+<a href="https://github.com/alpha1207vj/CHECKERCONTRASTOWCAG" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alpha1207vj&repo=CHECKERCONTRASTOWCAG&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Contrasto"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/alpha1207vj/CHECKERCONTRASTOWCAG">
+  <img src="https://img.shields.io/badge/Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://codja.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Next.js · TypeScript · Tailwind CSS · next-intl**
+
+<br/>
+
+A WCAG contrast checker for devs and designers who care about accessibility.
+<br/>
+Check AA & AAA ratios, simulate color blindness, copy as CSS or Tailwind, and save your favorite palettes — all in one tool.
 
 </div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔥 Project One</h3>
-      <div align="center">
-        <a href="https://github.com/jojo-dev/project-one" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo-dev&repo=project-one&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Project One"/>
-        </a>
-        <br/><br/>
-        <p>
-          <a href="https://github.com/jojo-dev/project-one">
-            <img src="https://img.shields.io/badge/Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://project-one.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React · TypeScript · Supabase</strong></p>
-        <p>A short punchy description of what this project does and why it's cool.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Project Two</h3>
-      <div align="center">
-        <a href="https://github.com/jojo-dev/project-two" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo-dev&repo=project-two&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Project Two"/>
-        </a>
-        <br/><br/>
-        <p>
-          <a href="https://github.com/jojo-dev/project-two">
-            <img src="https://img.shields.io/badge/Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://project-two.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Next.js · Tailwind · TypeScript</strong></p>
-        <p>A short punchy description of what this project does and why it's cool.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎨 Project Three</h3>
-      <div align="center">
-        <a href="https://github.com/jojo-dev/project-three" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo-dev&repo=project-three&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Project Three"/>
-        </a>
-        <br/><br/>
-        <p>
-          <a href="https://github.com/jojo-dev/project-three">
-            <img src="https://img.shields.io/badge/Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://project-three.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React · CSS · Framer Motion</strong></p>
-        <p>A short punchy description of what this project does and why it's cool.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Project Four</h3>
-      <div align="center">
-        <a href="https://github.com/jojo-dev/project-four" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo-dev&repo=project-four&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Project Four"/>
-        </a>
-        <br/><br/>
-        <p>
-          <a href="https://github.com/jojo-dev/project-four">
-            <img src="https://img.shields.io/badge/Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://project-four.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Next.js · Supabase · TypeScript</strong></p>
-        <p>A short punchy description of what this project does and why it's cool.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -175,12 +107,12 @@ const JOJO = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jojo-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alpha1207vj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha1207vj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-dev&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha1207vj&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
 
 </div>
 
@@ -190,6 +122,7 @@ const JOJO = {
 
 - 🚀 Building polished, performant React & Next.js apps
 - 🎨 Obsessing over UI details that make users smile
+- ♿ Advocating for accessible, inclusive web experiences
 - 💼 **Actively open to Frontend Engineer roles** — remote friendly!
 - 📬 Always open to collabs, freelance gigs & cool projects
 
@@ -204,8 +137,8 @@ const JOJO = {
 <br/>
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jojo@dev.com)
-[![Twitter](https://img.shields.io/badge/DM_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jojo-dev)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jojo-dev)
+[![Twitter](https://img.shields.io/badge/DM_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Gide749Gide)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-codja-4356a2361)
 
 <br/>
 
