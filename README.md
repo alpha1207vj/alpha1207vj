@@ -44,4 +44,4 @@ Currently working with **React**, **Next.js 15**, **TypeScript**, and **Tailwind
 
 **Featured**
 
-[![Contrasto](./CONTRASTOwcag.png)](https://codja.vercel.app) — WCAG contrast checker for devs and designers. Built with Next.js, TypeScript, Tailwind, and next-intl. Checks AA/AAA ratios, simulates color blindness, exports as CSS or Tailwind, and saves palettes. [Live →](https://codja.vercel.app)
+[![Contrasto](https://raw.githubusercontent.com/alpha1207vj/alpha1207vj/main/CONTRASTOwcag.png)](https://codja.vercel.app) — WCAG contrast checker for devs and designers. Built with Next.js, TypeScript, Tailwind, and next-intl. Checks AA/AAA ratios, simulates color blindness, exports as CSS or Tailwind, and saves palettes. [Live →](https://codja.vercel.app)
