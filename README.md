@@ -13,9 +13,9 @@
 
 # Joel Codja — Frontend Engineer
 
-Open to work · Remote friendly · [jojo@dev.com](mailto:jojo@dev.com)
+Open to work · Remote friendly · [gedeon.codja@yahoo.com](mailto:gedeon.codja@yahoo.com)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Gide749Gide) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-codja-4356a2361) [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://jojo.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Gide749Gide) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-codja-4356a2361) 
 
 ---
 
@@ -41,7 +41,14 @@ Currently working with **React**, **Next.js 15**, **TypeScript**, and **Tailwind
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
+---
+
+**Contact**
+
+Reach me at [jojo@dev.com](mailto:gedeon.codja@yahoo.com) or DM me on [Twitter](https://x.com/Gide749Gide) — open to roles, collabs and freelance.
+
+---
 
 **Featured**
 
-[![Contrasto](https://raw.githubusercontent.com/alpha1207vj/alpha1207vj/main/CONTRASTOwcag.png)](https://codja.vercel.app) — WCAG contrast checker for devs and designers. Built with Next.js, TypeScript, Tailwind, and next-intl. Checks AA/AAA ratios, simulates color blindness, exports as CSS or Tailwind, and saves palettes. [Live →](https://codja.vercel.app)
+[![Contrasto](https://raw.githubusercontent.com/alpha1207vj/alpha1207vj/main/CONTRASTOwcag)](https://codja.vercel.app) — WCAG contrast checker for devs and designers. Built with Next.js, TypeScript, Tailwind, and next-intl. Checks AA/AAA ratios, simulates color blindness, exports as CSS or Tailwind, and saves palettes. [Live →](https://codja.vercel.app)
