@@ -13,7 +13,7 @@
 
 # Joel Codja — Frontend Engineer
 
-Open to work · Remote friendly · [gedeon.codja@yahoo.com](mailto:gedeon.codja@yahoo.com)
+Open to work · Remote friendly · [gide749@gmail.com](mailto:gedeon.codja@yahoo.com)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Gide749Gide) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-codja-4356a2361) 
