@@ -47,7 +47,7 @@ Currently working with **React**, **Next.js 15**, **TypeScript**, and **Tailwind
 
 **Contact**
 
-Reach me at [jojo@dev.com](mailto:gedeon.codja@yahoo.com) or DM me on [Twitter](https://x.com/Gide749Gide) — open to roles, collabs and freelance.
+Reach me at [gide749@gmail.com](mailto:gedeon.codja@yahoo.com) or DM me on [Twitter](https://x.com/Gide749Gide) — open to roles, collabs and freelance.
 
 ---
 
