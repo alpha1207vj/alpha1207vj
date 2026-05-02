@@ -54,3 +54,5 @@ Reach me at [gide749@gmail.com](mailto:gedeon.codja@yahoo.com) or DM me on [Twit
 **Featured**
 
 [![Contrasto](https://raw.githubusercontent.com/alpha1207vj/alpha1207vj/main/CONTRASTOwcag)](https://codja.vercel.app) — WCAG contrast checker for devs and designers. Built with Next.js, TypeScript, Tailwind, and next-intl. Checks AA/AAA ratios, simulates color blindness, exports as CSS or Tailwind, and saves palettes. [Live →](https://codja.vercel.app)
+
+[![My portfolio](https://raw.githubusercontent.com/alpha1207vj/alpha1207vj/main/portfolio)](https://codja.vercel.app) — Personal portfolio built with Next.js and Tailwind CSS, featuring smooth animations, and a working contact form. [Live →](https://codja.vercel.app)
